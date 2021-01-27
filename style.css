@@ -1,0 +1,134 @@
+body{
+    background-image: url("C:/Users/joaow/Desktop/imagens/bg2.png");
+    background-position: 1750px 900px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#intz img{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 117px;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+#pain img{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 355px;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+#cruz img{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 43,5px;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+#red img{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 237px;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+#furia img{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 474px;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+
+
+
+#loud img{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 1052px;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+#fla img{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 1290px;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+#kabm img{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 935px;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+#rens img{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 1172px;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+#vorx img{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 1409px;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+.infos{
+    position: absolute;
+    top: 100px;
+    left: 935px;
+    padding: 10px;
+    height: 330px;
+    width: 600px;
+    justify-content: center;
+    background-color: white;
+    border: 5px solid gray;
+    display: none
+}
+
+.infos2{
+    position: absolute;
+    top: 100px;
+    left: 30px;
+    padding: 10px;
+    height: 330px;
+    width: 600px;
+    justify-content: center;
+    background-color: white;
+    border: 5px solid gray;
+    display: none
+}
